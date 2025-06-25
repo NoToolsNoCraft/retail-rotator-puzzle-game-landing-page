@@ -1,1 +1,1 @@
-Live link: https://notoolsnocraft.github.io/weekly-invitation-counter/
+Live link: https://notoolsnocraft.github.io/retail-rotator-puzzle-game-landing-page/
